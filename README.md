@@ -26,7 +26,7 @@ Process
 
 
 
-Conclusion
+Conclusion:
 I have created a Maven project in Eclipse IDE to parse a csv file. For database manipulation the Hibernate Framework, as it requires less effort and is efficient. The SQLite database is used due to its in-memory capabilities.
 
 
