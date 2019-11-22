@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-22T12:06:22</date>
+  <millis>1574442382823</millis>
+  <sequence>14</sequence>
+  <logger>com.ms3</logger>
+  <level>INFO</level>
+  <class>com.ms3.CVSparse.log.LogFile</class>
+  <method>printLog</method>
+  <thread>1</thread>
+  <message>No. of records received = 6002</message>
+</record>
+<record>
+  <date>2019-11-22T12:06:22</date>
+  <millis>1574442382828</millis>
+  <sequence>15</sequence>
+  <logger>com.ms3</logger>
+  <level>INFO</level>
+  <class>com.ms3.CVSparse.log.LogFile</class>
+  <method>printLog</method>
+  <thread>1</thread>
+  <message>No. of records successful = 4866</message>
+</record>
+<record>
+  <date>2019-11-22T12:06:22</date>
+  <millis>1574442382829</millis>
+  <sequence>16</sequence>
+  <logger>com.ms3</logger>
+  <level>INFO</level>
+  <class>com.ms3.CVSparse.log.LogFile</class>
+  <method>printLog</method>
+  <thread>1</thread>
+  <message>No. of records failed = 1136</message>
+</record>
+</log>
